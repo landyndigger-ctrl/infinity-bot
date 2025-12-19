@@ -1,0 +1,7 @@
+{
+  "name": "avion-beams-dashboard",
+  "private": true,
+  "scripts": {
+    "build": "next build"
+  }
+}
